@@ -6,3 +6,4 @@ GoodBye
 SeeYouSoon
 Again, Hello
 Welcome
+Laugh
